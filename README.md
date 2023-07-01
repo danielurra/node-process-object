@@ -10,9 +10,26 @@ There are two ways to stop a running process:
 ![manual-stop](https://github.com/danielurra/node-process-object/assets/51704179/96dfcdbe-a443-4d53-bfd6-0cacdd54cbf1)
 
 # Stopping the process by using the exit function
+```javascript
+for(let x=0; x<50000; x++){
+    console.log(x);
+    if(x==25000){
+        process.exit();
+    }
+}
+```
 ![exit-function](https://github.com/danielurra/node-process-object/assets/51704179/79116dc0-a381-4c64-a2d2-013fb960a833)
 
 # Visualize the process objects, its properties and methods
+```javascript
+console.log(process);
+for(let x=0; x<1; x++){
+    console.log(x);
+    if(x==25000){
+        process.exit();
+    }
+}
+```
 ![process-object](https://github.com/danielurra/node-process-object/assets/51704179/839a59ff-2433-4095-abdd-c71c80d4472e)
 
 ## Exit Function of the process object
