@@ -13,3 +13,7 @@ There are two ways to stop a running process:
 ![exit-function](https://github.com/danielurra/node-process-object/assets/51704179/79116dc0-a381-4c64-a2d2-013fb960a833)
 
 # Visualize the process objects, its properties and methods
+![process-object](https://github.com/danielurra/node-process-object/assets/51704179/839a59ff-2433-4095-abdd-c71c80d4472e)
+
+## Exit Function of the process object
+![process-object-exit-function](https://github.com/danielurra/node-process-object/assets/51704179/9afce6c1-92c3-4ffd-ad80-c579824ed564)
