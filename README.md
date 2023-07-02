@@ -21,6 +21,7 @@ node ./test.js
 ![node-running-process-animated](https://github.com/danielurra/node-process-object/assets/51704179/1a30c5fa-4a63-40ec-8f7b-0e0ba3c873b7)
 
 # Manually stop, Ctrl + C
+Execute your code and press Ctrl + C to manually stop it.<br>
 ![manual-stop](https://github.com/danielurra/node-process-object/assets/51704179/96dfcdbe-a443-4d53-bfd6-0cacdd54cbf1)
 
 # Stopping the process by using the exit function
