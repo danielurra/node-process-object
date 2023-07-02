@@ -4,9 +4,15 @@ There are two ways to stop a running process:
 * By using the exit function of the Node `process object`
 
 # Visualize a running process
+```javascript
+for(let x=0; x<50000; x++){
+    console.log(x);
+    }
+}
+```
 ![running-process](https://github.com/danielurra/node-process-object/assets/51704179/d1daeab4-1e82-4065-a1f4-0ec3d803fd07)
 
-# Manually stop
+# Manually stop, Ctrl + C
 ![manual-stop](https://github.com/danielurra/node-process-object/assets/51704179/96dfcdbe-a443-4d53-bfd6-0cacdd54cbf1)
 
 # Stopping the process by using the exit function
