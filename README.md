@@ -1,7 +1,7 @@
 ![Node js_logo_650x390px](https://github.com/danielurra/node-process-object/assets/51704179/3c4a7e29-7ad6-4b0a-b4d9-dc25508bd38f)
 
 # Node.js Process object
-There are two ways to stop a running process:
+There are two ways to **stop** a running process:
 * Manually stop by using Ctrl + C
 * By using the exit function of the Node `process object`
 
