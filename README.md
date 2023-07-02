@@ -13,6 +13,9 @@ for(let x=0; x<50000; x++){
 ```
 ![running-process](https://github.com/danielurra/node-process-object/assets/51704179/d1daeab4-1e82-4065-a1f4-0ec3d803fd07)
 
+## Animated gif
+![node-running-process](https://github.com/danielurra/node-process-object/assets/51704179/73423c5d-e660-4ce9-9600-9644c106a839)
+
 # Manually stop, Ctrl + C
 ![manual-stop](https://github.com/danielurra/node-process-object/assets/51704179/96dfcdbe-a443-4d53-bfd6-0cacdd54cbf1)
 
