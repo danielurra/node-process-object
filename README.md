@@ -15,7 +15,7 @@ for(let x=0; x<50000; x++){
 
 ## Run your code
 Type the following command and press enter:<br>
-```bash
+```javascript
 node ./test.js
 ```
 ![node-running-process-animated](https://github.com/danielurra/node-process-object/assets/51704179/1a30c5fa-4a63-40ec-8f7b-0e0ba3c873b7)
