@@ -40,3 +40,7 @@ for(let x=0; x<1; x++){
 
 ## Exit Function of the process object
 ![process-object-exit-function](https://github.com/danielurra/node-process-object/assets/51704179/9afce6c1-92c3-4ffd-ad80-c579824ed564)
+
+## More about the process object
+![more-about-process-obj](https://github.com/danielurra/node-process-object/assets/51704179/4b95790c-49c7-457c-b574-743dee5c6e09)
+
