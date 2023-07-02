@@ -13,7 +13,10 @@ for(let x=0; x<50000; x++){
 ```
 ![running-process](https://github.com/danielurra/node-process-object/assets/51704179/d1daeab4-1e82-4065-a1f4-0ec3d803fd07)
 
-## Animated gif
+## Run yor code
+```bash
+node ./test.js
+```
 ![node-running-process-animated](https://github.com/danielurra/node-process-object/assets/51704179/1a30c5fa-4a63-40ec-8f7b-0e0ba3c873b7)
 
 # Manually stop, Ctrl + C
