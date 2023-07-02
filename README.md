@@ -2,8 +2,8 @@
 
 # Node.js Process object
 There are two ways to **stop** a running process:
-* Manually stop by using Ctrl + C
-* By using the `exit function` of the Node `process object`
+* Manually stop by using `Ctrl + C`
+* By using the `exit function` of the Node **process object**
 
 # Visualize a running process
 ```javascript
