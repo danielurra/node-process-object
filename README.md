@@ -10,7 +10,6 @@ There are two ways to stop a running process:
 for(let x=0; x<50000; x++){
     console.log(x);
     }
-}
 ```
 ![running-process](https://github.com/danielurra/node-process-object/assets/51704179/d1daeab4-1e82-4065-a1f4-0ec3d803fd07)
 
